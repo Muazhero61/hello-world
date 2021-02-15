@@ -6,4 +6,4 @@
 
  development tools : 
 	 1.code editor - sublime text
-	 2.build tools - github
+	 2.build tools - github, XAMPP
